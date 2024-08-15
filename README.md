@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Antonio and I'm a DevOps Engineer and Cloud Consultant, from Paris (France) </p>
+<p align="left">My name is Antonio and I'm a 3+ years DevOps Engineer and Cloud Consultant, from Paris (France) </p>
 
 ###
 
